@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "lloydbrodsky/lowincomehealthaid.github.io",
+    "data-repo": "lloydbrodsky/lowincomehealthaid.github.io.working",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
